@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DeepikaMishraa
 - 👀 I’m interested in WebDevopement and Technology.
 - 🌱 I’m currently learning DSA.
-- 📫 How to reach me @deepika2002mishra@gmail.com
+- 📫 How to reach me deepika2002mishra@gmail.com
