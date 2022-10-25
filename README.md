@@ -2,8 +2,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" data-canonical-src="https://dribbble.com/shots/18058631-New-website" style="max-width: 100%;">
 
-- 🔭 I’m currently working on a team project at Celestial Biscuit.
-
 - 🌱 I’m currently learning **React Js, Node js, DSA**
 
 - 📫 Reach me at **deepika2002mishra@gmail.com**
